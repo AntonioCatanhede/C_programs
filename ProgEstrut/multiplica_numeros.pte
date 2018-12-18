@@ -1,0 +1,7 @@
+inicio
+real: N1, N2, M
+escreva("Digite dois números: ")
+leia(N1, N2)
+M <- N1 * N2
+escreva("Multiplicação = ", M)
+fim

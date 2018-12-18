@@ -1,0 +1,19 @@
+inicio // começo do algoritmo
+
+// declaração das variáveis
+real: N1, N2, N3, N4, MF
+
+// mensagem para o usuário
+escreva("Digite as quatro 
+notas: ")
+
+// entrada dos dados
+leia(N1, N2, N3, N4)
+
+// processamento
+MF <- (N1 + N2 + N3 + N4) / 4
+
+// saída da informação
+escreva("Média final = ", MF)
+
+fim // término do algoritmo
